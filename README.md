@@ -1,0 +1,2 @@
+# testFrameworkPodSpec
+testFrameworkPodSpec
